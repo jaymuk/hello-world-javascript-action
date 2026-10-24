@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jaymuk/hello-world-javascript-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.4",
-    "@actions/github": "^4.0.0"
+    "@actions/github": "^9.1.1"
   }
 }
